@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-24T17:14:16Z",
-    "currentVersion": "0.1.1",
+    "lastUpdated": "2026-09-24T17:15:25Z",
+    "currentVersion": "0.2.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 1
+    "totalReleases": 2
   },
   "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": null,
+      "raw_summary": "## [0.2.0]\n\n### ✨ 기능\n- 덧셈 유틸 add 추가",
+      "parsed_changes": {
+        "기능": {
+          "title": "✨ 기능",
+          "items": [
+            "덧셈 유틸 add 추가"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.1.1",
       "project_types": [
