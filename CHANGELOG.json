@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-24T17:15:25Z",
-    "currentVersion": "0.2.0",
+    "lastUpdated": "2026-09-24T17:24:30Z",
+    "currentVersion": "0.2.1",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 2
+    "totalReleases": 3
   },
   "releases": [
+    {
+      "version": "0.2.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-09-24",
+      "pr_number": null,
+      "raw_summary": "## [0.2.1]\n\n### 🐛 수정\n- AI 변수만 설정 케이스",
+      "parsed_changes": {
+        "수정": {
+          "title": "🐛 수정",
+          "items": [
+            "AI 변수만 설정 케이스"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.2.0",
       "project_types": [
