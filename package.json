@@ -1,0 +1,7 @@
+{
+  "name": "paw-e2e-trunk",
+  "version": "0.1.0",
+  "description": "project-auto-wizard E2E sandbox",
+  "main": "index.js",
+  "scripts": { "test": "node -e \"process.exit(0)\"" }
+}
